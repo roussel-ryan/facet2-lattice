@@ -18,6 +18,7 @@
 
 parameter[geometry] = open
 parameter[particle] = electron
+parameter[absolute_time_tracking] = T
 
 ! WOODDOOR should be at:
 ! X Y Z =  0 0  3050.512000
